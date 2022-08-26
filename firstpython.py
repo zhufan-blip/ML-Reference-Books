@@ -1,2 +1,3 @@
 # Print the output
-print("Fan is a dum-dum.")
+def dum_dum():
+    print("Fan is a dum-dum.")
